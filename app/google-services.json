@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "108237837093",
+    "firebase_url": "https://mymessaging-c5584.firebaseio.com",
+    "project_id": "mymessaging-c5584",
+    "storage_bucket": "mymessaging-c5584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108237837093:android:56e2f67ef029874f",
+        "android_client_info": {
+          "package_name": "com.example.rafaelmeyer.mymessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108237837093-fjthkqpo6fohi923bbi7mc2ohl1s7nrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxN_Klbqnz4b4moilvpULBRj1-JTK49gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
